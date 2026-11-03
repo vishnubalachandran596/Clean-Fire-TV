@@ -1,0 +1,25 @@
+*.iml
+*.swp
+.idea
+.DS_Store
+.vscode
+.tmp
+.venv/
+dist
+build
+buildinfo.json
+node_modules
+CMakeUserPresets.json
+npm-debug.log
+*.vpkg
+manifest.kepler-validation-*.toml
+src/App.full.tsx.bak
+src/App.tsx.crashingbak
+*.crashingbak
+.cursor/mcp.json
+.env
+.env.*
+*.pem
+*.key
+# Duplicate ASIN scrape cache (canonical icons live in assets/icons/*.png)
+assets/icons/popular/

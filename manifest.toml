@@ -1,0 +1,23 @@
+schema-version = 1
+
+[package]
+title = "Clean Home"
+version = "1.0.0"
+# Sideload flip-flop: keep this as 1 or 2 only (vpm needs a number; --force installs either).
+build-number = 2
+id = "com.cleanhome.launcher"
+
+[os.version]
+min = "2.0"
+target = "2.0"
+
+[needs]
+[[needs.privilege]]
+id = "com.amazon.network.privilege.network-access"
+
+[components]
+[[components.interactive]]
+id = "com.cleanhome.launcher.main"
+runtime-module = "/com.amazon.kepler.runtime.react_native_kepler_4@IReactNativeKepler_0"
+launch-type = "singleton"
+categories = ["com.amazon.category.main", "com.amazon.category.launcher"]

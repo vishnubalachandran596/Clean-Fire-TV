@@ -1,0 +1,635 @@
+{
+  "com.netflix.kepler": {
+    "asin": "B0DJQ2BS37",
+    "packageId": "com.netflix.kepler",
+    "title": "Netflix",
+    "cached": true
+  },
+  "com.amazon.frenchpress": {
+    "asin": "B0FGKQNLRF",
+    "packageId": "com.amazon.frenchpress",
+    "title": "Prime Video",
+    "cached": true
+  },
+  "com.amazon.firetv.youtube": {
+    "asin": "B07T771SPH",
+    "packageId": "com.amazon.firetv.youtube",
+    "title": "YouTube",
+    "cached": true
+  },
+  "in.startv.hotstar": {
+    "asin": "B06Y18MPK7",
+    "packageId": "in.startv.hotstar",
+    "title": "Jio Hotstar",
+    "cached": true
+  },
+  "com.apple.atve.amazon.appletv": {
+    "asin": "B07XDD7GYT",
+    "packageId": "com.apple.atve.amazon.appletv",
+    "title": "Apple TV",
+    "cached": true
+  },
+  "com.zee5.amazon": {
+    "asin": "B079PZHHBS",
+    "packageId": "com.zee5.amazon",
+    "title": "ZEE5",
+    "cached": true
+  },
+  "com.onemainstream.sonyliv.android": {
+    "asin": "B06XP3HSPW",
+    "packageId": "com.onemainstream.sonyliv.android",
+    "title": "SonyLIV",
+    "cached": true
+  },
+  "com.suntv.sunnxt": {
+    "asin": "B072814ZX5",
+    "packageId": "com.suntv.sunnxt",
+    "title": "sunNXT",
+    "cached": true
+  },
+  "com.crunchyroll.crunchyroid": {
+    "asin": "B004U7BXBO",
+    "packageId": "com.crunchyroll.crunchyroid",
+    "title": "Crunchyroll",
+    "cached": true
+  },
+  "tv.airtel.xstream.tvapp": {
+    "asin": "B08CKPSHLL",
+    "packageId": "tv.airtel.xstream.tvapp",
+    "title": "Xstream Play",
+    "cached": true
+  },
+  "com.amazon.music.kepler": {
+    "asin": "B0DF4LG8S4",
+    "packageId": "com.amazon.music.kepler",
+    "title": "Amazon Music",
+    "cached": true
+  },
+  "com.spotify.tv.android": {
+    "asin": "B00N1XIY5Q",
+    "packageId": "com.spotify.tv.android",
+    "title": "Spotify",
+    "cached": true
+  },
+  "com.plexapp.android": {
+    "packageId": "com.plexapp.android",
+    "title": "Plex",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/38/db/a438db28-fd3b-4e8a-f24c-c6f97e17fc59/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.tubitv": {
+    "asin": "B07FD85TW6",
+    "packageId": "com.tubitv",
+    "title": "Tubi",
+    "cached": true
+  },
+  "tv.pluto.android": {
+    "asin": "B00KDSGIPK",
+    "packageId": "tv.pluto.android",
+    "title": "Pluto TV",
+    "cached": true
+  },
+  "com.peacocktv.peacockandroid": {
+    "asin": "B08BG9MPT9",
+    "packageId": "com.peacocktv.peacockandroid",
+    "title": "Peacock",
+    "cached": true
+  },
+  "com.hulu.plus": {
+    "asin": "B00F4A1GN6",
+    "packageId": "com.hulu.plus",
+    "title": "Hulu",
+    "cached": true
+  },
+  "com.espn.score_center": {
+    "asin": "B00E81O27Y",
+    "packageId": "com.espn.score_center",
+    "title": "ESPN",
+    "cached": true
+  },
+  "com.google.android.youtube.tvunplugged": {
+    "asin": "B07XF2P9KR",
+    "packageId": "com.google.android.youtube.tvunplugged",
+    "title": "YouTube TV",
+    "cached": true
+  },
+  "com.disney.disneyplus": {
+    "packageId": "com.disney.disneyplus",
+    "title": "Disney+",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/7f/cb/3f7fcb64-82d5-7f5d-e453-6532b9e497d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/7f/cb/3f7fcb64-82d5-7f5d-e453-6532b9e497d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg"
+  },
+  "com.wbd.stream": {
+    "packageId": "com.wbd.stream",
+    "title": "Max",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b3/cb/88b3cb65-9dd7-8801-bb47-affd72805a82/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b3/cb/88b3cb65-9dd7-8801-bb47-affd72805a82/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  "com.cbs.ott": {
+    "packageId": "com.cbs.ott",
+    "title": "Paramount+",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/05/ed/6905ed93-841f-8ed3-0fb7-de72e6f977fa/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/05/ed/6905ed93-841f-8ed3-0fb7-de72e6f977fa/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg"
+  },
+  "org.videolan.vlc": {
+    "asin": "B00U65KQMQ",
+    "packageId": "org.videolan.vlc",
+    "title": "VLC",
+    "cached": true
+  },
+  "com.nordvpn.android": {
+    "packageId": "com.nordvpn.android",
+    "title": "NordVPN",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/28/64/b1286427-ec8b-81b0-26d8-9c0523cf1efc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "in.AajTak.headlines": {
+    "asin": "B07KX363ZT",
+    "packageId": "in.AajTak.headlines",
+    "title": "in.AajTak.headlines",
+    "iconUrl": "https://m.media-amazon.com/images/I/71b-fSdQC0L.png",
+    "cached": true
+  },
+  "com.fubo.android": {
+    "asin": "B019DCHDZK",
+    "packageId": "com.fubo.android",
+    "title": "Fubo",
+    "cached": true
+  },
+  "com.amazon.imdb.tv.android.app": {
+    "packageId": "com.amazon.imdb.tv.android.app",
+    "title": "Freevee",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/1e/e0/c21ee00b-de26-b4e0-bfa3-9d5b0484d5a6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/1e/e0/c21ee00b-de26-b4e0-bfa3-9d5b0484d5a6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  "com.twitch.android.tv": {
+    "asin": "B01NBW99LI",
+    "packageId": "com.twitch.android.tv",
+    "title": "com.twitch.android.tv",
+    "cached": false
+  },
+  "com.sling": {
+    "packageId": "com.sling",
+    "title": "Sling TV",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a0/63/40a063af-5c68-e5d4-94d7-eb29642bf15e/AppIcon-Liquid-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a0/63/40a063af-5c68-e5d4-94d7-eb29642bf15e/AppIcon-Liquid-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg"
+  },
+  "com.discovery.discoveryplus.mobile": {
+    "packageId": "com.discovery.discoveryplus.mobile",
+    "title": "discovery+",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/da/40/d6da408b-9d7f-ab04-6c08-766c62854ef9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/da/40/d6da408b-9d7f-ab04-6c08-766c62854ef9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  "asin_B075NTHVJW": {
+    "asin": "B075NTHVJW",
+    "packageId": null,
+    "iconUrl": "https://m.media-amazon.com/images/I/715irEQPXzL.png",
+    "cached": true
+  },
+  "asin_B00E5NH6YG": {
+    "asin": "B00E5NH6YG",
+    "packageId": null,
+    "iconUrl": "https://m.media-amazon.com/images/I/41B9xWJ9sjL.png",
+    "cached": true
+  },
+  "asin_B01LXOU5PM": {
+    "asin": "B01LXOU5PM",
+    "packageId": null,
+    "iconUrl": "https://m.media-amazon.com/images/I/41Ms7xpOIIL.png",
+    "cached": true
+  },
+  "asin_B019DCHDZK": {
+    "asin": "B019DCHDZK",
+    "packageId": null,
+    "iconUrl": "https://m.media-amazon.com/images/I/51PBOOfS7uL.png",
+    "cached": true
+  },
+  "com.futuretoday.android.filmrise": {
+    "asin": "B07DBBTDBS",
+    "packageId": "com.futuretoday.android.filmrise",
+    "title": "FilmRise",
+    "iconUrl": "https://m.media-amazon.com/images/I/31uEF4y+SFL.png",
+    "cached": true
+  },
+  "com.xfinity.cloudtvr.tenfoot": {
+    "asin": "B087779QX3",
+    "packageId": "com.xfinity.cloudtvr.tenfoot",
+    "title": "Xfinity Stream",
+    "iconUrl": "https://m.media-amazon.com/images/I/71xZE-u+ivL.png",
+    "cached": true
+  },
+  "com.att.tv": {
+    "asin": "B01J62Q632",
+    "packageId": "com.att.tv",
+    "title": "DIRECTV",
+    "iconUrl": "https://m.media-amazon.com/images/I/61zMKfz9CFL.png",
+    "cached": true
+  },
+  "com.roku.web.trc": {
+    "asin": "B089QXRRHD",
+    "packageId": "com.roku.web.trc",
+    "title": "The Roku Channel",
+    "iconUrl": "https://m.media-amazon.com/images/I/51Jq539xxZL.png",
+    "cached": true
+  },
+  "com.kanopy.android": {
+    "asin": "B075SJCV38",
+    "packageId": "com.kanopy.android",
+    "title": "Kanopy",
+    "iconUrl": "https://m.media-amazon.com/images/I/21sBznspESL.png",
+    "cached": true
+  },
+  "com.nfl.fantasy.core.android": {
+    "asin": "B01LXOU5PM",
+    "packageId": "com.nfl.fantasy.core.android",
+    "title": "NFL",
+    "iconUrl": "https://m.media-amazon.com/images/I/41Ms7xpOIIL.png",
+    "cached": true
+  },
+  "com.cnn.mobile.android.phone": {
+    "asin": "B076TCPKJT",
+    "packageId": "com.cnn.mobile.android.phone",
+    "title": "CNN",
+    "iconUrl": "https://m.media-amazon.com/images/I/61B27jrDQoL.png",
+    "cached": true
+  },
+  "com.nbcsports.liveextra": {
+    "asin": "B01923M8T6",
+    "packageId": "com.nbcsports.liveextra",
+    "title": "NBC Sports",
+    "iconUrl": "https://m.media-amazon.com/images/I/41l-hccEEJL.png",
+    "cached": true
+  },
+  "com.nbaimd.gametime.nba2011": {
+    "asin": "B08K3Q4CLX",
+    "packageId": "com.nbaimd.gametime.nba2011",
+    "title": "NBA",
+    "iconUrl": "https://m.media-amazon.com/images/I/41DhFXIEG+L.png",
+    "cached": true
+  },
+  "com.fandango": {
+    "asin": "B08XWVS4NR",
+    "packageId": "com.fandango",
+    "title": "Fandango",
+    "iconUrl": "https://m.media-amazon.com/images/I/311ovAXdg3L.png",
+    "cached": true
+  },
+  "com.gaia.android": {
+    "asin": "B01N9SQC83",
+    "packageId": "com.gaia.android",
+    "title": "Gaia",
+    "iconUrl": "https://m.media-amazon.com/images/I/61qZ+UauQJL.png",
+    "cached": true
+  },
+  "com.cbssports.android": {
+    "asin": "B00EOUGFNS",
+    "packageId": "com.cbssports.android",
+    "title": "CBS Sports",
+    "iconUrl": "https://m.media-amazon.com/images/I/71pYFFfWAKL.png",
+    "cached": true
+  },
+  "com.acorn.tv": {
+    "asin": "B01EAY1XPW",
+    "packageId": "com.acorn.tv",
+    "title": "Acorn TV",
+    "iconUrl": "https://m.media-amazon.com/images/I/71TFYt8E7SL.png",
+    "cached": true
+  },
+  "com.charter.spectrum.guide": {
+    "asin": "B00GY1DWUO",
+    "packageId": "com.charter.spectrum.guide",
+    "title": "Spectrum TV",
+    "iconUrl": "https://m.media-amazon.com/images/I/518DS7Xj4aL.png",
+    "cached": true
+  },
+  "com.cbs.app": {
+    "packageId": "com.cbs.app",
+    "title": "Paramount+ alt",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/8d/65/4f8d6569-7cbd-16ab-0808-c34ece84a99e/AppIcon-Paramount-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/8d/65/4f8d6569-7cbd-16ab-0808-c34ece84a99e/AppIcon-Paramount-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  "com.twitch.android.app": {
+    "packageId": "com.twitch.android.app",
+    "title": "Twitch",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/af/88/d5af88c1-ef7a-2d28-90c0-1f3335b21efe/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/af/88/d5af88c1-ef7a-2d28-90c0-1f3335b21efe/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg"
+  },
+  "tv.fawesome.android": {
+    "asin": "B07PY7J9Q2",
+    "packageId": "tv.fawesome.android",
+    "title": "Fawesome",
+    "iconUrl": "https://m.media-amazon.com/images/I/616ts3012JL.png",
+    "cached": true
+  },
+  "com.byutv.android": {
+    "packageId": "com.byutv.android",
+    "title": "BYUtv",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/bd/ab/04bdab54-ae10-57a7-7f88-bdb30ca8c8a6/AppIcon_tv-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/bd/ab/04bdab54-ae10-57a7-7f88-bdb30ca8c8a6/AppIcon_tv-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "com.philo.philo": {
+    "packageId": "com.philo.philo",
+    "title": "Philo",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/54/81/cd548192-4906-e707-95fc-bd31a3ceb6fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/54/81/cd548192-4906-e707-95fc-bd31a3ceb6fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "com.pbs.video": {
+    "packageId": "com.pbs.video",
+    "title": "PBS",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/d6/e1/ced6e116-6197-29e4-80fa-4b99e4952624/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/d6/e1/ced6e116-6197-29e4-80fa-4b99e4952624/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "com.history.watch": {
+    "asin": "B00E5NH6YG",
+    "packageId": "com.history.watch",
+    "title": "HISTORY",
+    "iconUrl": "https://m.media-amazon.com/images/I/41B9xWJ9sjL.png",
+    "cached": true
+  },
+  "com.aenetworks.lifetime": {
+    "packageId": "com.aenetworks.lifetime",
+    "title": "Lifetime",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/5a/cc/775acc51-ee47-e2c8-ecb3-d4d608901bf4/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/5a/cc/775acc51-ee47-e2c8-ecb3-d4d608901bf4/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg"
+  },
+  "com.amcn.amcplus.androidtv": {
+    "asin": "B077BSJ3G7",
+    "packageId": "com.amcn.amcplus.androidtv",
+    "title": "WE tv",
+    "iconUrl": "https://m.media-amazon.com/images/I/31fHXMNSIzL.png",
+    "cached": true
+  },
+  "com.turner.tbs.android.networkapp": {
+    "asin": "B00BI60DMU",
+    "packageId": "com.turner.tbs.android.networkapp",
+    "title": "TBS",
+    "iconUrl": "https://m.media-amazon.com/images/I/71r6Sr1rCwL.png",
+    "cached": true
+  },
+  "com.mxtech.videoplayer.television": {
+    "packageId": "com.mxtech.videoplayer.television",
+    "title": "MX Player",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/68/eb/c768ebff-1040-7767-89fa-0430aa789385/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/68/eb/c768ebff-1040-7767-89fa-0430aa789385/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "com.jio.media.ondemand": {
+    "packageId": "com.jio.media.ondemand",
+    "title": "JioCinema",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f7/f4/c4f7f485-7fe9-fb1d-cc65-277bd09a3952/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f7/f4/c4f7f485-7fe9-fb1d-cc65-277bd09a3952/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg"
+  },
+  "com.tv.v18.viola": {
+    "packageId": "com.tv.v18.viola",
+    "title": "Voot",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/f5/10/40f51019-c21f-7b42-9ba0-b97acb661a82/AppIcon-IN-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/f5/10/40f51019-c21f-7b42-9ba0-b97acb661a82/AppIcon-IN-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  "com.bsbportal.music": {
+    "packageId": "com.bsbportal.music",
+    "title": "Hungama Play",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/0d/ad/1e0dad43-4af8-552e-65f3-1f3aa83c2c2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/0d/ad/1e0dad43-4af8-552e-65f3-1f3aa83c2c2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
+  },
+  "com.screencast": {
+    "asin": "B0BLHXJ4YX",
+    "packageId": "com.screencast",
+    "title": "Music Videos Free",
+    "iconUrl": "https://m.media-amazon.com/images/I/71dHNvDTD7L.png",
+    "cached": true
+  },
+  "com.aftvnews.downloader": {
+    "packageId": "com.aftvnews.downloader",
+    "title": "Downloader",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/08/88/f1/0888f1e3-da8d-9c44-187a-dee92acdf2e7/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/08/88/f1/0888f1e3-da8d-9c44-187a-dee92acdf2e7/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/512x512bb.jpg"
+  },
+  "com.britbox.us": {
+    "packageId": "com.britbox.us",
+    "title": "BritBox",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/19/56/44195664-be4f-f892-72c7-24a9be411154/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/19/56/44195664-be4f-f892-72c7-24a9be411154/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "com.xumo.xumo": {
+    "packageId": "com.xumo.xumo",
+    "title": "Xumo Play",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/63/a0/ea63a024-fa63-05ef-9a97-a83035821b2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/63/a0/ea63a024-fa63-05ef-9a97-a83035821b2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "com.cw.android.stream": {
+    "packageId": "com.cw.android.stream",
+    "title": "The CW",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/ed/35/c7ed3581-d62f-9328-5b79-53db99f2b471/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/ed/35/c7ed3581-d62f-9328-5b79-53db99f2b471/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  "com.amc.tv": {
+    "packageId": "com.amc.tv",
+    "title": "AMC",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/60/c7/5560c76a-8663-79d4-9211-78a8a180cca9/icon-app-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/60/c7/5560c76a-8663-79d4-9211-78a8a180cca9/icon-app-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  "com.hallmarkmoviesnow": {
+    "packageId": "com.hallmarkmoviesnow",
+    "title": "Hallmark Movies Now",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/97/43/569743a1-571a-026c-4848-d86661344575/AppIcon-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/97/43/569743a1-571a-026c-4848-d86661344575/AppIcon-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg"
+  },
+  "com.mgm.mgmplus": {
+    "packageId": "com.mgm.mgmplus",
+    "title": "MGM+",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/b3/45/7cb34521-4438-be75-68de-03ee91de9392/AppIcon-EPIX-NOW-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/b3/45/7cb34521-4438-be75-68de-03ee91de9392/AppIcon-EPIX-NOW-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "com.shudder.android": {
+    "packageId": "com.shudder.android",
+    "title": "Shudder",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/a2/18/1fa218f3-e24c-6eed-4a63-e41104c87bd8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/a2/18/1fa218f3-e24c-6eed-4a63-e41104c87bd8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+  },
+  "com.mubi.androidtv": {
+    "packageId": "com.mubi.androidtv",
+    "title": "Mubi",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/32/2f/d0322f5e-d930-03fc-54db-482f0c4adc82/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/32/2f/d0322f5e-d930-03fc-54db-482f0c4adc82/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  "com.starz.starzplay.android": {
+    "packageId": "com.starz.starzplay.android",
+    "title": "STARZ",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/e6/09/efe609f6-b367-9788-49d2-11e8af0ef608/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/e6/09/efe609f6-b367-9788-49d2-11e8af0ef608/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  "com.redbox.android": {
+    "packageId": "com.redbox.android",
+    "title": "Redbox",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/7d/ab/217dab9f-a16c-5919-4aef-eeed195c340e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/7d/ab/217dab9f-a16c-5919-4aef-eeed195c340e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  "tv.pureflix.android": {
+    "packageId": "tv.pureflix.android",
+    "title": "Pure Flix",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/03/2e/da032e7e-7a81-4249-4c00-cb044f7e03cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/03/2e/da032e7e-7a81-4249-4c00-cb044f7e03cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "com.fox.android.foxnow": {
+    "packageId": "com.fox.android.foxnow",
+    "title": "FOX NOW",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/8c/4e/018c4ed0-7207-38fb-a6fd-c45a72a5edd3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/8c/4e/018c4ed0-7207-38fb-a6fd-c45a72a5edd3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  "com.nbc.android.nbctve": {
+    "packageId": "com.nbc.android.nbctve",
+    "title": "NBC",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9f/ec/c89fec47-89a8-014d-ccd9-1b13fd31d813/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9f/ec/c89fec47-89a8-014d-ccd9-1b13fd31d813/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  "com.abc.tv.android": {
+    "packageId": "com.abc.tv.android",
+    "title": "ABC",
+    "cached": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/bc/80/52bc80ad-d07b-1ada-0bd7-e4b6a07d7805/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/bc/80/52bc80ad-d07b-1ada-0bd7-e4b6a07d7805/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg"
+  },
+  "com.expressvpn.vpn": {
+    "packageId": "com.expressvpn.vpn",
+    "title": "ExpressVPN",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/40/ba/4c40ba72-8164-66c3-6afc-4a0e6e35f13d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.surfshark.vpn.client": {
+    "packageId": "com.surfshark.vpn.client",
+    "title": "Surfshark",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/82/ce/2a82ce01-75b8-924e-abbf-b7e26d662cd3/iOS_AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "ch.protonvpn.android": {
+    "packageId": "ch.protonvpn.android",
+    "title": "Proton VPN",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f2/63/abf26323-cb7a-5977-fad6-a6434bf904df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.privateinternetaccess.android": {
+    "packageId": "com.privateinternetaccess.android",
+    "title": "Private Internet Access",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/fb/e3/52fbe3e1-a2f5-95b6-03e2-62930720b38c/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.windscribe.vpn": {
+    "packageId": "com.windscribe.vpn",
+    "title": "Windscribe",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/c6/45/a5c64598-2a0b-15a7-b557-7538447df636/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.mullvad.vpn": {
+    "packageId": "com.mullvad.vpn",
+    "title": "Mullvad VPN",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/88/3d/23883d39-03ab-6b8a-8afc-cdd40c6031f4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.cyberghost.android.vpn": {
+    "packageId": "com.cyberghost.android.vpn",
+    "title": "CyberGhost VPN",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/fa/0f/2dfa0f05-1dc2-673d-2812-460009a719c6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.hotspotshield.vpn.android": {
+    "packageId": "com.hotspotshield.vpn.android",
+    "title": "HotspotShield VPN",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/69/27/23692710-d0d4-ecde-0d41-4e16f39ab681/AppIcon-v2-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.tunnelbear.android": {
+    "packageId": "com.tunnelbear.android",
+    "title": "TunnelBear",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/54/cb/d154cb53-2e72-dcfb-36cf-85b7642b28d4/app-icon-regular-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "net.openvpn.openvpn": {
+    "packageId": "net.openvpn.openvpn",
+    "title": "OpenVPN Connect",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/4c/a6/274ca6e1-d3ba-8ad1-0847-9bd91a6d19c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.ivpn.client": {
+    "packageId": "com.ivpn.client",
+    "title": "IVPN",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/97/e0/4f97e0e8-6c49-b5a4-65f8-0abfaaee9873/AppIcon-0-0-1x_U007emarketing-0-8-0-512MB-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "org.jellyfin.androidtv": {
+    "packageId": "org.jellyfin.androidtv",
+    "title": "Jellyfin",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/8f/51/748f5190-1431-4c0b-358e-1b42822df922/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "org.jellyfin.mobile": {
+    "packageId": "org.jellyfin.mobile",
+    "title": "Jellyfin Mobile",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/27/38/b4273897-77f2-b29a-3954-aa46b516109a/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.embymedia.emby.tv": {
+    "packageId": "com.embymedia.emby.tv",
+    "title": "Emby",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/b8/b5/fbb8b5d0-da22-6670-6e23-43db78e19562/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "com.kodi": {
+    "packageId": "com.kodi",
+    "title": "Kodi",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/dd/f0/9fddf0f4-c04a-309e-4f9f-7259530ffa56/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+    "iconUrl": ""
+  },
+  "org.xbmc.kodi": {
+    "packageId": "org.xbmc.kodi",
+    "title": "Kodi",
+    "cached": true,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/17/8e/47178ee7-5d45-8c1c-154e-2c0e20457270/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "iconUrl": ""
+  }
+}

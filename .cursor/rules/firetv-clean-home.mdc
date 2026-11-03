@@ -1,0 +1,20 @@
+---
+description: Clean Home / Fire TV Vega launcher — architecture and stick deploy rules
+alwaysApply: true
+---
+
+# Fire TV Clean Home
+
+Read `docs/ARCHITECTURE_AND_FINDINGS.md`, `docs/SETUP_FROM_SCRATCH.md`, `docs/STICK_LAYOUT.md`, and `AGENTS.md` before changing launcher, bridge, Home, or scripts.
+
+## Must follow
+
+- Stick scripts live in `scripts/` and deploy to `/data/*.sh`.
+- `grep -qw VISIBLE` only (NOT_VISIBLE false positive).
+- Amazon Home → `/amazon-home` + `amazon_mode`. Settings dock → `/network-panel` (HUD), no amazon_mode.
+- Home from Amazon: `firetv-home.sh` + `firetv-home-logwatch.sh` (`loggingctl`, not `journalctl`); return with `vmsgr send pkg://com.cleanhome.launcher.main`.
+- RN bridge: LAN IP / `cleanhome.bridge_ip` / 1s host refresh — not loopback-only.
+- Booster: never kill VISIBLE apps; honor `cleanhome.launch_cooldown`.
+- No nav sound (audio libs removed — they aborted launch).
+- Verify on device via adb: `vlcm list`, curl `:8765`, process list for firetv-* and socket-activate.
+- **Dock apps + icons (required step):** when apps are missing from the dock, sync installed packages from **both** `kepler.media` and `category.main` via `/apps`; add Appstore `iconUrl` + `assets/icons/<packageId>.png` + `BUNDLED_ICONS` / `SEED_MEDIA_APPS` / `icon_url_for_pkg` / STREAM_KILL|BG. See AGENTS.md “Required step — dock apps + original icons”.

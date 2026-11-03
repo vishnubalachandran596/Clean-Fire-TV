@@ -1,0 +1,20 @@
+import {HeadlessEntryPointRegistry} from '@amazon-devices/headless-task-manager';
+
+import doEnsureBootTask from './src/boot/ensureBootTask';
+import doOnInstallOrUpdateTask from './src/boot/onInstallOrUpdateTask';
+
+// Prefer v2 entry registration when available (RN 0.83 / Kepler 4).
+const register =
+  typeof HeadlessEntryPointRegistry.registerHeadlessEntryPoint2 === 'function'
+    ? HeadlessEntryPointRegistry.registerHeadlessEntryPoint2.bind(
+        HeadlessEntryPointRegistry,
+      )
+    : HeadlessEntryPointRegistry.registerHeadlessEntryPoint.bind(
+        HeadlessEntryPointRegistry,
+      );
+
+register('com.cleanhome.launcher.boot::doTask', () => doEnsureBootTask);
+register(
+  'com.cleanhome.launcher.onInstallOrUpdateTask::doTask',
+  () => doOnInstallOrUpdateTask,
+);
